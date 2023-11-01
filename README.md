@@ -9,5 +9,7 @@ Hi, i'm Jack a grade 10 tech student from Canada. I am looking to persue a caree
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jack-Eddy&show_icons=true&theme=gotham" alt="Jack-Eddy" />
+  
 ### Contact Me
 📧: jack.eddy@mths.ca
