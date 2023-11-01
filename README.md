@@ -2,7 +2,7 @@
 
 # Jack Eddy
 
-Hi i'm Jack a grade 10 tech student from Canada. I am looking to persue a career in computer progamming and I am willing to work hard to achieve it. I really enjoy the creative process that goes behind coding and developement.
+Hi, i'm Jack a grade 10 tech student from Canada. I am looking to persue a career in computer progamming and I am willing to work hard to achieve it. I really enjoy the creative process that goes behind coding and developement.
 
 ### Languages
 
